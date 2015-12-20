@@ -6,6 +6,8 @@ This will install Ubuntu or Kubuntu (with ChrUbuntu) and apply automatically all
 Supported device(s)
 -------------------
 
+[ubuntu support devices](http://popularubuntuquestions.com)
+
 * Acer C720 (Tested)
 * HP Chromebook 14 (Untested, but should work using the Acer C720 device profile)
 * Asus Panther Chromebox (Tested)
